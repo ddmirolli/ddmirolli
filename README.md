@@ -1,7 +1,9 @@
 # Dan Mirolli
+Founder | Builder | Seller
 
-Founder of [ReviewWheel](https://reviewwheel.com). Enterprise seller (Palantir, Formstack) and builder of:
+- **[ReviewWheel](https://reviewwheel.com):** reviews, SEO, websites, and ads that help home service contractors book more jobs from Google. Bootstrapped and cash-flow positive. **Founder**
+- **[Model Topography](https://modeltopography.com):** know which AI model to use for entry level, middle management, and senior executive work.
+- **[Workbench](https://github.com/ddmirolli/workbench):** an open-source benchmark scoring AI coding models across Intelligence, Efficiency, and Agency.
+- **[Yes Chef](https://yeschef.codes):** The French Brigade layer for agentic dev teams.
 
-- **[ReviewWheel](https://reviewwheel.com):** reviews, SEO, websites, and ads that help home service contractors book more jobs from Google. Bootstrapped and cash-flow positive.
-- **[Model Topography](https://modeltopography.com):** maps every AI model by intelligence, efficiency, and agency. Its open benchmark, [Workbench](https://github.com/ddmirolli/workbench), is pinned below.
-- **[Yes Chef](https://yeschef.codes):** a live board that runs coding agents across every project and holds each decision for a human.
+Enterprise seller (Palantir, Formstack)
